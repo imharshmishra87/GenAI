@@ -1,0 +1,50 @@
+Where to Find AI Datasets for NLP and Computer Vision
+When it comes to finding AI datasets for NLP and computer vision, several platforms are offering both free and paid options. Here are some of the top resources you can explore:
+
+Best free platforms for computer vision and NLP datasets
+Humans in the Loop-Free datasets
+Humans in the Loop offers high-quality, free dataset collection for AI applications, including NLP and computer vision. Whether you’re looking for datasets for training image classifiers or language models, you’ll find a valuable resource here.
+
+Unlike many free datasets without proper selection, Humans in the Loop (HITL) free datasets provide a highly-curated alternative. 
+
+As discussed in this article, high-quality datasets are often available as paid options. The advantage of HITL is that it provides high-quality free datasets, with human annotators continuously reviewing them.
+
+The HITL-free datasets cover a wide range of industries:
+
+Medical
+Automotive
+Geospatial
+Retail
+Industrial
+Agriculture
+2. Kaggle
+
+Kaggle is another platform where you can find free datasets for your AI projects. It offers a wide range of free datasets for NLP and computer vision. Kaggle also hosts challenges, which can help you to test your models and improve your skills.
+
+Common Crawl (Natural Language Processing – NLP)
+Common Crawl unites a large-scale dataset- massive web crawl data, commonly used for NLP tasks like text processing and language modeling.
+
+4. COCO (Image Captioning & Object Detection)
+
+COCO offers a dataset with over 300,000 images, annotated specifically for object detection, image captioning, and segmentation.
+
+Google Dataset Search
+Google’s Dataset Search tool helps users find datasets from all over the web. You can filter the results based on dataset type, making it easier to find the data you need for NLP, computer vision, or any other AI application.
+
+6. OnenML
+
+This open-source platform is designed for machine learning research specifically. OpenML allows users to share, explore, and analyze datasets, making it a suitable tool for AI developers and data scientists.
+
+7. Data.gov
+
+A government-supported platform offering access to a wide range of public datasets in various sectors, such as finance, climate, healthcare, and transportation. 
+
+This resource helps researchers and businesses seeking open data for training their AI models.
+
+8. UCI Machine Learning Repository
+
+This platform unites the collection of datasets in academic and commercial machine-learning applications. It includes structured and high-quality datasets for various AI tasks, such as classification, regression, and clustering.
+
+Academic Institutions
+Many universities worldwide publish open-source datasets for AI research.
+
