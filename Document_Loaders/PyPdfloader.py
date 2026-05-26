@@ -1,6 +1,6 @@
 from langchain_community.document_loaders import PyPDFLoader
 
-loader=PyPDFLoader("a-practical-guide-to-building-agents.pdf")
+loader=PyPDFLoader("Document_Loaders/Data/a-practical-guide-to-building-agents.pdf")
 
 data=loader.load()
 

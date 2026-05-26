@@ -1,6 +1,6 @@
 from langchain_community.document_loaders import CSVLoader
 
-loader=CSVLoader('bengaluru_house_prices.csv')
+loader=CSVLoader('Document_Loaders/Data/bengaluru_house_prices.csv')
 
 data=loader.load()
 

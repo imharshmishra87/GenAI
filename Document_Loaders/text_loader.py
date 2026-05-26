@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-loader=TextLoader("data.txt",encoding='utf-8')
+loader=TextLoader("Document_Loaders/Data/data.txt",encoding='utf-8')
 
 parser=StrOutputParser()
 
