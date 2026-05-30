@@ -1,3 +1,0 @@
-data=[(content=[], additional_kwargs={'function_call': {'name': 'add', 'arguments': '{"b": 6, "a": 5}'}, '__gemini_function_call_thought_signatures__': {'5dcdcca5-dc1f-4a67-a2cf-13ebd37b7038': 'EjQKMgEMOdbH5zA2tjQ0zjtO/YzrcchOg5YV4HAr4vCjWLQSsIya4aaUH1XtmD51TF8PC9y7'}}, response_metadata={'finish_reason': 'STOP', 'model_name': 'gemini-3.1-flash-lite', 'safety_ratings': [], 'model_provider': 'google_genai'}, id='lc_run--019e6f9a-33fb-78f2-ac91-81dc850808cf-0', tool_calls=[{'name': 'add', 'args': {'b': 6, 'a': 5}, 'id': '5dcdcca5-dc1f-4a67-a2cf-13ebd37b7038', 'type': 'tool_call'}], invalid_tool_calls=[], usage_metadata={'input_tokens': 233, 'output_tokens': 16, 'total_tokens': 249, 'input_token_details': {'cache_read': 0}})]
-
-print(data)
