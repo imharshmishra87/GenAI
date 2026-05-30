@@ -1,1 +1,12 @@
-/venv
+
+.env
+
+myenv311/
+
+__pycache__
+
+myvectoredb/
+
+.vscode/
+
+trial.py
